@@ -42,7 +42,7 @@ the ``parent``.
       patron_id: "joe",
       street: "123 Fake Street",
       city: "Faketon",
-      state: "MA"
+      state: "MA",
       zip: 12345
    }
 
